@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MDK AIr 60-61-62"
